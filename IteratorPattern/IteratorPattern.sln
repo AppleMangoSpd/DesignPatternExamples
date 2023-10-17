@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IteratorPattern", "IteratorPattern\IteratorPattern.vcxproj", "{7C2CE28E-E45D-4023-9D75-46BCF67BEF61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "IteratorPattern", "IteratorPattern.vcxproj", "{7C2CE28E-E45D-4023-9D75-46BCF67BEF61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1410EDE8-2C45-46FC-9815-A3E18AAD0E12}
+		SolutionGuid = {D1DF4D90-EA55-40B8-9908-3481CC77E044}
 	EndGlobalSection
 EndGlobal

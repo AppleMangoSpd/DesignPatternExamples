@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.757
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactoryMethodPattern", "FactoryMethodPattern\FactoryMethodPattern.vcxproj", "{F5998660-6BCB-4EA0-A9E1-A41045B9A584}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FactoryMethodPattern", "FactoryMethodPattern.vcxproj", "{F5998660-6BCB-4EA0-A9E1-A41045B9A584}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -26,6 +26,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6DFDD1A1-426B-4D7A-AD87-A1B2041E1E61}
+		SolutionGuid = {5056187D-1DD0-4FD4-8AA5-971E99BF49F5}
 	EndGlobalSection
 EndGlobal

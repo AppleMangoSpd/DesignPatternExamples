@@ -1,0 +1,2 @@
+E:\C++works\DesignPattern\DesignPatternExamples\IteratorPattern\Debug\IteratorPattern.exe
+E:\C++works\DesignPattern\DesignPatternExamples\IteratorPattern\Debug\IteratorPattern.pdb
